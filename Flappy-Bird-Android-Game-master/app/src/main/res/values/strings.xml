@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flappy Bird</string>
+    <string name="score">0</string>
+    <string name="Content_des">Flappy Game element</string>
+    <string name="toggle_turn_on">on</string>
+    <string name="toggle_turn_off">off</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="gamehistory">Game History</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="historyscore">Score</string>
+    <string name="edittext"></string>
+    <string name="edittext2"></string>
+    <string name="page">1</string>
+    <string name="back"> </string>
+</resources>
